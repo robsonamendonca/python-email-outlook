@@ -24,7 +24,7 @@ ___
 
 ___
 
-<img src="https://github.com/robsonamendonca/python-dashboard/blob/master/TelaOutlook.JPG?raw=true" width="1200">
+<img src="https://github.com/robsonamendonca/python-email-outlook/blob/master/TelaOutlook.JPG?raw=true" width="1200">
 
 ## :information_source: Sobre
 
